@@ -1,3 +1,5 @@
 name: 'The Holy CEE'
 description: 'Church of Empirical Evidence'
 twitter: 'theholycee'
+
+exclude: ['README.markdown', 'Gemfile', 'Gemfile.lock']
