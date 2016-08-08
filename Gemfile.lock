@@ -1,9 +1,3 @@
-GIT
-  remote: https://github.com/dinomite/herring-cove.git
-  revision: 7a5ed8519a368b1067454de4a1da520c08befb4c
-  specs:
-    herring-cove (0.1.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -43,7 +37,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  herring-cove!
   jekyll (~> 3.2)
 
 RUBY VERSION
